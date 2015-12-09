@@ -28,4 +28,4 @@ A "long list":https://github.com/schambers/fluentmigrator/wiki/ContributorList o
 
 h2. License
 
-"Apache 2 License":https://github.com/schambers/fluentmigrator/blob/master/LICENSE.txt
+"Apache 2 License": https://github.com/schambers/fluentmigrator/blob/master/LICENSE.txt
